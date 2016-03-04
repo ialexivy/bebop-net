@@ -154,7 +154,7 @@ copy json_config.h.win32 json_config.h
     <ClInclude Include="random_seed.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="config.h.win32" />
+    <None Include="C:\config.h.win32" />
     <None Include="Doxyfile" />
     <None Include="json_config.h.win32" />
     <None Include="README-WIN32.html" />

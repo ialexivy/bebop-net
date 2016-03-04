@@ -82,9 +82,9 @@
     <None Include="Doxyfile">
       <Filter>Documentation</Filter>
     </None>
-    <None Include="config.h.win32" />
     <None Include="json_config.h.win32" />
     <None Include="README-WIN32.html" />
     <None Include="README.html" />
+    <None Include="C:\config.h.win32" />
   </ItemGroup>
 </Project>
